@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ICHDeployment
 
 Setup:
@@ -17,3 +18,6 @@ Execution:
 
 Results:
 Open file ""resources/Automation_InputSheet.xlsx" the Output_sheet will have the results of execution.
+=======
+# DeploymentAutomation
+>>>>>>> 1fa8fe90a9d0fc3c0cd4dd25d174744a7c03e6f8
